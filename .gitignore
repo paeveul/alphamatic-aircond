@@ -1,0 +1,20 @@
+# Claude Code configuration and memory — must never reach GitHub
+.claude/
+
+# Dev planning docs — not part of the live site
+CLAUDE.md
+*.md
+
+# Dev tooling scripts
+*.py
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor artefacts
+.vscode/
+.idea/
+*.swp
+*.swo
