@@ -1956,6 +1956,7 @@ select.form-input {
   .service-detail-card--full .carousel-track img {
     height: 260px;
   }
+  .service-detail-card--full .carousel-btn { height: 260px; }
 }
 
 /* ============================================================
